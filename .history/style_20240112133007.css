@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@font-face {
+    font-family: osw;
+    src:
+}
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.custom-bg{
+    background-color:#B9C3CC;
+    min-height: 100vh;
+    width: 100%;  
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+
+.top .os{
+    font-family: Oswald;
+}
+
+
+
+.gil{
+    font-family: gilroy;
+}
+
+
+
+
+
+
+
+
